@@ -1,0 +1,36 @@
+드가자~
+
+n1 느라 3!  
+n2 느라 8!
+n3 느라 -5!
+exAssign1 := 5!
+exAssign2 := 5!
+exAssign3 := 5!
+exAssign4 := 5!
+i 느라 0!
+j 느라 0!
+
+// 연산자 테스트
+exArith1 느라 n1 쁘라스 n2!					// 11
+exArith2 느라 n1 마이나스 n2!				// -5
+exArith3 느라 n1 꼽표 n3!				    // -15
+exArith4 느라 n2 노나 n1!					// 2
+exSqr 느라 2의 5승!						// 32
+exTwice1 느라 4 따블!					// 8
+exTTwice1 느라 4 따따블!				// 16
+
+// 연산자 우선순위 테스트
+exPriority1 느라 n2 마이나스 2 꼽표 n1!		    // 2
+exPriority2 느라 5 쁘라스 exPriority1 노나 2!	// 6
+
+// 할당연산자 테스트
+exAssign1 더해느라 5!                         // 10
+exAssign2 빼느라 5!                             // 0
+exAssign3 꼽해느라 5!                         // 25
+exAssign4 노나느라 5!                         // 1
+
+// 후위연산자 테스트
+i++!                                     // 1
+j--!                                     // -1
+
+고마해라~
